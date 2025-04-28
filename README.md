@@ -12,7 +12,9 @@
 
 # Example Output
 ====== HashTable Buckets ======
+
 Bucket 0 -> Size: 860
+
 Bucket 1 -> Size: 887
 Bucket 2 -> Size: 919
 Bucket 3 -> Size: 875
