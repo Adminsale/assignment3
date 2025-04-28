@@ -14,7 +14,6 @@
 ====== HashTable Buckets ======
 
 Bucket 0 -> Size: 860
-
 Bucket 1 -> Size: 887
 Bucket 2 -> Size: 919
 Bucket 3 -> Size: 875
@@ -25,7 +24,9 @@ Bucket 7 -> Size: 930
 Bucket 8 -> Size: 910
 Bucket 9 -> Size: 946
 Bucket 10 -> Size: 924
+
 ====== BST In-Order Traversal ======
+
 Key is: 2 | Value is: Two
 Key is: 3 | Value is: Three
 Key is: 4 | Value is: Four
